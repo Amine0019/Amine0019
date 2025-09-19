@@ -72,9 +72,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/Amine0019/Amine0019/output/github-contribution-grid-snake.svg)
-
-
+<img src="https://raw.githubusercontent.com/Amine0019/Amine0019/output/snake.svg" alt="Snake animation" />
 
 ###
 
