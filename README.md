@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">💻 Software Engineering Student | Passionate about Technology & Innovation</p>
+<p align="center">💻 software engineering student eager to learn new technologies and explore innovations</p>
 
 ---
 
