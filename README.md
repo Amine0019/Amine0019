@@ -33,16 +33,16 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amine0019&theme=tokyonight&hide_border=false&cache=1" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amine0019&theme=tokyonight&hide_border=false" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amine0019&theme=tokyonight&v=1" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amine0019&theme=tokyonight" width="100%" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amine0019&show_icons=true&theme=tokyonight&hide_border=false&v=2" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine0019&layout=compact&theme=tokyonight&hide_border=false&v=2" height="180" />
+  <img src="https://github-readme-stats-git-masterrstp-rstps-projects.vercel.app/api/top-langs/?username=Amine0019&layout=compact&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-readme-stats-git-masterrstp-rstps-projects.vercel.app/api?username=Amine0019&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
 </div>
 
 ---
