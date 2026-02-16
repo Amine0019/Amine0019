@@ -1,54 +1,74 @@
 <h1 align="center">Larbi Mohamed Amine</h1>
 
 <p align="center">
-Software Engineering Student • Building Scalable Systems • Problem Solver
+Software Engineering Student • Backend & Systems Enthusiast • Building Scalable Applications
+</p>
+
+<p align="center">
+  <a href="mailto:mohamedemine.larbi@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/larbimohamedamine/" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-Software Engineering student based in Tunisia, focused on building clean, efficient and scalable software systems.
+Software Engineering student based in Tunisia, passionate about designing reliable, secure, and scalable systems.
 
-- 🎓 Graduation: 2027  
-- 💡 Interests: System Architecture, Backend Engineering, Databases  
-- 🤝 Open to internships & collaboration  
-- 📫 mohamedemine.larbi@gmail.com  
+- 🎓 Graduation Year: **2027**
+- 🧠 Strong interest in **Backend Development, System Architecture & Databases**
+- 🛠 Building real-world applications with modern technologies
+- 🤝 Open to **internships and collaborative projects**
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Languages**  
+### Languages
 C • Java • Python • JavaScript • TypeScript • C#
 
-**Frontend**  
-Angular • HTML • CSS • Bootstrap  
+### Frontend
+Angular • HTML • CSS • Bootstrap
 
-**Backend**  
-Spring Boot • .NET  
+### Backend
+Spring Boot • .NET
 
-**Databases**  
-MySQL • SQL Server • Oracle • SQLite  
+### Databases
+MySQL • SQL Server • Oracle • SQLite
 
-**Tools**  
-Git • GitHub • VS Code • IntelliJ • Visual Studio  
+### Tools
+Git • GitHub • VS Code • IntelliJ • Visual Studio
 
 ---
 
-## GitHub Overview
+# 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amine0019&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine0019&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amine0019&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amine0019&theme=dracula" height="170em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amine0019&theme=dracula&utcOffset=1" height="170em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amine0019&theme=dracula" height="170em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amine0019&theme=dracula" height="170em"/>
 </p>
 
 ---
 
-## Connect
+## 🏆 Achievements
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/larbimohamedamine/" target="_blank">
-    LinkedIn
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Amine0019&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=6"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amine0019&theme=dracula&hide_border=true&border_radius=6" />
 </p>
