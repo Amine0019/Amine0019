@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Software Engineering student** at **ESPRIT**, expected to graduate in **2027**
+- 🎓 **Software Engineering student** at **Esprit**, expected to graduate in **2027**
 - 🛠 Building strong skills in **Software Development, Systems Architecture, and DevOps**
 - 🔍 Open to **collaboration opportunities, real-world projects, and internships**
 - 📫 Reach me at: **mohamedemine.larbi@gmail.com**
