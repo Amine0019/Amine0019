@@ -21,7 +21,8 @@
 ### 💻 Tools & Technologies I Use
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,spring,dotnet,cs,python,js,ts,angular,html,css,bootstrap&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=c,java,spring,dotnet,cs,python,js,ts,angular,html,css,bootstrap&theme=dark" />
+  <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,oracle,sqlite,git,github,vscode,visualstudio,idea&theme=dark" />
 </div>
 
