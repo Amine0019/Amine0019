@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Larbi+Mohamed;Software+Engineering+Student;Full+Stack+Developer;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Mohamed+Amine+Larbi;Software+Engineering+Student;Full+Stack+Developer;DevOps+Enthusiast;Welcome+to+my+profile!+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Software Engineering student**, expected to graduate in **2027**
-- 🛠 Building strong skills in **Software Development, Systems Architecture, and Modern IT Solutions**
+- 🛠 Building strong skills in **Software Development, Systems Architecture, and DevOps**
 - 🔍 Open to **collaboration opportunities, real-world projects, and internships**
 - 📫 Reach me at: **mohamedemine.larbi@gmail.com**
 
@@ -22,6 +22,8 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,spring,dotnet,cs,python,js,ts,angular,html,css,bootstrap&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,prometheus,grafana,sonarqube&theme=dark" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,oracle,sqlite,git,github,vscode,visualstudio,idea&theme=dark" />
 </div>
