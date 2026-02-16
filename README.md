@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amine0019&theme=tokyonight" width="100%" alt="Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amine0019&theme=tokyonight" width="100%" alt="Summary Card" />
 </p>
 
 <div align="center">
