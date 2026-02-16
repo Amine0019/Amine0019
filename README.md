@@ -39,16 +39,17 @@
 
 ---
 
-### 📊 GitHub Statistics
+<h3 align="center">GitHub Statistics</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amine0019&theme=tokyonight&ring=DD275D&fire=DD275D&currStreakNum=FFCE54&sideNums=DD275D&sideLabels=DD275D&dates=FFFFFF&hide_border=false" alt="GitHub Streak" />
-  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amine0019&theme=tokyonight&fire=DD275D&currStreakNum=FFCE54&sideNums=DD275D&sideLabels=DD275D&dates=FFFFFF&ring=DD275D&hide_border=false" alt="streak graph" />
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amine0019&bg_color=0d1117&color=b622c1&line=b622c1&point=FFFFFF&area=true&hide_border=false" width="100%" />
+  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Amine0019&show_icons=true&theme=tokyonight&title_color=DD275D&icon_color=FFCE54&text_color=FFFFFF&bg_color=1a1b27&hide_border=false" alt="Amine's GitHub stats" />
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine0019&layout=compact&theme=tokyonight&title_color=DD275D&text_color=FFFFFF&bg_color=1a1b27&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amine0019&layout=compact&langs_count=6&theme=tokyonight&title_color=DD275D&text_color=FFFFFF&bg_color=0d1117&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amine0019&show_icons=true&theme=tokyonight&title_color=DD275D&icon_color=FFCE54&text_color=FFFFFF&bg_color=0d1117&hide_border=false" height="180" />
 </div>
 
 ---
