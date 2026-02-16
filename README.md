@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Software Engineering student**, expected to graduate in **2027**
+- 🎓 **Software Engineering student** at **ESPRIT**, expected to graduate in **2027**
 - 🛠 Building strong skills in **Software Development, Systems Architecture, and DevOps**
 - 🔍 Open to **collaboration opportunities, real-world projects, and internships**
 - 📫 Reach me at: **mohamedemine.larbi@gmail.com**
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Insights (Alternative Display)
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amine0019&theme=tokyonight&hide_border=false" width="100%" />
@@ -41,8 +41,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amine0019&layout=compact&theme=tokyonight&hide_border=false" height="180" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amine0019&show_icons=true&theme=tokyonight&hide_border=false" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amine0019&layout=compact&theme=tokyonight&hide_border=false" height="180" />
 </div>
 
 ---
