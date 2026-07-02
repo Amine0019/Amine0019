@@ -19,7 +19,6 @@
 ---
 
 ### 💻 Tools & Technologies I Use
-### 💻 Tools & Technologies I Use
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,spring,cs,dotnet,py,ts,angular&theme=dark" />
   <br><br>
@@ -29,7 +28,6 @@
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mssql&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio&theme=dark" />
 </div>
 
 ---
