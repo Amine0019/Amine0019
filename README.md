@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,spring,cs,dotnet,py,ts,angular&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=jenkins,git,github,sonarqube,docker,kubernetes,prometheus,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github,docker,kubernetes,prometheus,grafana&theme=dark" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mssql&theme=dark" />
   <br><br>
