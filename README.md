@@ -17,14 +17,13 @@
 - 📫 Reach me at: **mohamedemine.larbi@gmail.com**
 
 ---
-
 ### 💻 Tools & Technologies I Use
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,java,spring,cs,dotnet,py,ts,angular&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="48" />
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions&theme=dark" height="48" />
   <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" height="48" />
-  <img src="https://skillicons.dev/icons?i=githubactions,git,github,docker,kubernetes,prometheus,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,prometheus,grafana&theme=dark" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mssql&theme=dark" />
   <br><br>
