@@ -19,13 +19,14 @@
 ---
 
 ### 💻 Tools & Technologies I Use
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,spring,dotnet,cs,python,js,ts,angular,html,css,bootstrap&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,cs,dotnet,py,ts,angular&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,prometheus,grafana,sonarqube&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github,sonarqube,docker,kubernetes,prometheus,grafana&theme=dark" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,sqlite,git,github,vscode,visualstudio,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mssql&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio&theme=dark" />
 </div>
 
 ---
