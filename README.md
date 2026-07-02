@@ -26,8 +26,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,prometheus,grafana&theme=dark" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mssql&theme=dark" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio&theme=dark" />
 </div>
 ---
 
