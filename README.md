@@ -45,14 +45,12 @@
 
 ---
 
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Amine0019&theme=tokyonight&hide_border=false" width="100%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amine0019&theme=tokyonight" width="100%" alt="Profile Details" />
 </p>
 
 <p align="center">
