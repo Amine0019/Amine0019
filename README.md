@@ -14,7 +14,7 @@
 
 - 🎓 Software Engineering student at **[Esprit](https://esprit.tn)**, graduating in **2027**
 - 🛠 Focused on **Software Development, Systems Architecture, Mobile and DevOps**
-- 📱 Building cross-platform mobile apps with **Flutter & Dart**
+- ☁️ Passionate about **cloud infrastructure, CI/CD automation and containerized deployments**
 - 🤝 Open to **collaborations, real-world projects and internships**
 - 📫 Reach me at: **mohamedemine.larbi@gmail.com**
 
@@ -38,14 +38,18 @@
   <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" height="48" alt="SonarQube" />
 </p>
 
+### Cloud & Artifact Management
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" />
+  <img src="https://img.shields.io/badge/Nexus-black?style=for-the-badge&logo=sonatype&logoColor=white" height="48" alt="Nexus" />
+</p>
+
 ### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mssql&theme=dark" alt="Databases" />
 </p>
 
 ---
-
-
 
 ## 📊 GitHub Statistics
 
@@ -56,6 +60,11 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amine0019&theme=tokyonight" width="49%" alt="Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amine0019&theme=tokyonight" width="49%" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amine0019&theme=tokyonight" width="49%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amine0019&theme=tokyonight&utcOffset=1" width="49%" alt="Productive Time" />
 </p>
 
 ---
