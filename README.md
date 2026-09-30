@@ -45,16 +45,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Project 1](https://github.com/Amine0019/project-1) | Short description of the project | Flutter, Dart, Firebase |
-| [Project 2](https://github.com/Amine0019/project-2) | Short description of the project | Spring Boot, Angular, Docker |
-| [Project 3](https://github.com/Amine0019/project-3) | Short description of the project | Python, PostgreSQL |
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -62,13 +52,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amine0019&theme=tokyonight" width="100%" alt="Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amine0019&theme=tokyonight" width="100%" alt="Profile Details" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amine0019&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="Stats Card" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amine0019&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Languages Card" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amine0019&theme=tokyonight" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amine0019&theme=tokyonight" width="49%" alt="Most Used Languages" />
+</p>
 
 ---
 
