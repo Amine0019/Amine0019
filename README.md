@@ -36,12 +36,12 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,docker,kubernetes,prometheus,grafana&theme=dark" alt="DevOps" />
   <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" height="48" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Nexus-black?style=for-the-badge&logo=sonatype&logoColor=white" height="48" alt="Nexus" />
 </p>
 
-### Cloud & Artifact Management
+### Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" />
-  <img src="https://img.shields.io/badge/Nexus-black?style=for-the-badge&logo=sonatype&logoColor=white" height="48" alt="Nexus" />
 </p>
 
 ### Databases
